@@ -1,0 +1,8 @@
+accelerate
+fastapi
+pillow
+torch
+torchvision
+transformers
+uvicorn
+numpy==1.26.4
