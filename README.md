@@ -1,0 +1,2 @@
+# glm_edge_v_simple_api
+GLM端侧视觉大模型简易API
